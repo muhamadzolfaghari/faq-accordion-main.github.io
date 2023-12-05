@@ -1,9 +1,7 @@
-@import "vazirmatn/misc/Farsi-Digits/Vazirmatn-FD-font-face.css";
-@import "@fontsource/quicksand";
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600;700&display=swap");
 
 :root {
-  font-family: Vazirmatn FD, Quicksand, Inter, system-ui, Avenir, Helvetica,
-    Arial, sans-serif;
+  font-family: Work Sans, Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
   font-synthesis: none;
